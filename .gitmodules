@@ -1,0 +1,6 @@
+[submodule "eclipse-regexp"]
+	path = eclipse-regexp
+	url = https://github.com/zapletnev/eclipse-regexp
+[submodule "CsvEdit"]
+	path = CsvEdit
+	url = https://github.com/Mathieuu/CsvEdit/
